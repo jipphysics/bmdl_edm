@@ -5,7 +5,7 @@ import numpy as np
 NAME = "BMDL_EDM"
 VERSION = "0.3"
 DESCR = "The BMDL-EDM and the B'MDL-EDM for community detection."
-URL = "https://github.com/rayohauno/beta_RMDL_EDM"
+URL = "https://github.com/jipphysics/bmdl_edm.git"
 #REQUIRES = [ 'numpy', 'cython' ]
 with open( 'requirements.txt' , 'r' ) as fh:
     REQUIRES = fh.read().splitlines()
