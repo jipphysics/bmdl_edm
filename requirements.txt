@@ -1,0 +1,6 @@
+packaging
+cython
+numpy
+networkx==1.11
+scipy
+sklearn
